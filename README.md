@@ -1,5 +1,5 @@
 # clinic
-Web app for a clinic managing patients' appointments implementing microservices architecture
+Web application for a clinic managing patients', doctors' and appointments' data based on microservices architecture.
 
 # Tech stack
 ### Backend
@@ -12,3 +12,12 @@ Web app for a clinic managing patients' appointments implementing microservices 
 ### Frontend
 - Vue.js 3.0.11
 - Bootstrap 5
+
+# Service repos
+- [Gateway service](https://github.com/I-AzraeL-I-Personal/clinic-gateway-service)
+- [Discovery service](https://github.com/I-AzraeL-I-Personal/clinic-discovery-service)
+- [Auth service](https://github.com/I-AzraeL-I-Personal/clinic-auth-service)
+- [Patient service](https://github.com/I-AzraeL-I-Personal/clinic-patient-service)
+- [Doctor service](https://github.com/I-AzraeL-I-Personal/clinic-doctor-service)
+- [Appointment service](https://github.com/I-AzraeL-I-Personal/clinic-appointment-service)
+- [Frontend](https://github.com/I-AzraeL-I-Personal/clinic-frontend)
